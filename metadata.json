@@ -1,0 +1,6 @@
+{
+  "name": "Carbon Footprint Tracker",
+  "description": "An interactive full-stack tracker to calculate carbon emissions from travel, food, and energy. Offers personalized AI insights and action plans to guide carbon reduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
